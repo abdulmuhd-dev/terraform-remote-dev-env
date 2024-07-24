@@ -1,7 +1,7 @@
 
 # Terraform Configuration for Provisioning EC2 Remote Development Enviroment
 
-![CI](https://github.com/abdulmuhd-dev/remote-dev-env/workflows/validate.yaml/badge.svg)
+[![Terraform Code Test](https://github.com/abdulmuhd-dev/terraform-remote-dev-env/actions/workflows/validate.yaml/badge.svg)](https://github.com/abdulmuhd-dev/terraform-remote-dev-env/actions/workflows/validate.yaml)
 
 ## Overview
 This README provides instructions for using Terraform to automate the provisioning of an EC2 instance for development purposes on AWS.
